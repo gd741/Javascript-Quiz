@@ -14,7 +14,8 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-Image of site
+## Image of site ##
+![alt text](https://github.com/[gd741]/[gd741.github.io]/blob/[assets]/image/QuizStart.jpg?raw=true)
 
 
 Site URL
