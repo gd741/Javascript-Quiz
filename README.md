@@ -15,9 +15,10 @@ WHEN the game is over
 THEN I can save my initials and my score
 
 ## Image of site ##
-![alt text](https://github.com/gd741/gd741.github.io/blob/main/assets/images/Highscores.jpg)
-![alt text](https://github.com/gd741/gd741.github.io/blob/main/assets/images/QuizStart.jpg)
-![alt text](https://github.com/gd741/gd741.github.io/blob/main/assets/images/question.jpg)
+![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/Highscores.jpg)
+![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/QuizStart.jpg)
+![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/question.jpg)
+
 
 ## Site URL ##
 https://gd741.github.io/
