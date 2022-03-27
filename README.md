@@ -1,7 +1,8 @@
 # javascript-quiz
 Interactive Javascript quiz with timer and leaderboard 
-## Project Outline
 
+## Project Outline
+```md
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
@@ -13,8 +14,9 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
+```
 
-## Image of site ##
+## Images of site ##
 ![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/Highscores.jpg)
 ![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/QuizStart.jpg)
 ![alt text](https://github.com/gd741/Javascript-Quiz/blob/main/assets/images/question.jpg)
