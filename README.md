@@ -21,4 +21,4 @@ THEN I can save my initials and my score
 
 
 ## Site URL ##
-gd741.github.io/javascript-quiz/
+https://gd741.github.io/Javascript-Quiz/
